@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,[COLOR Green][I][B] FREE IPTV DOS POBRES V3.0 UPDATE 04-03-16 [/B][/I][/COLOR]
+#EXTINF:-1,[COLOR Green][I][B] FREE IPTV DOS POBRES V3.0 UPDATE 05-03-16 [/B][/I][/COLOR]
 http://google.pt
 #EXTINF:-1,[COLOR Green][I][B]MADE BY CARLOS CARVALHO[/B][/I][/COLOR]
 http://google.pt
@@ -82,26 +82,37 @@ http://aziptv.mine.nu:8000/live/David/David/38.m3u8
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/886.m3u8
 #EXTINF:-1 tvg-id="TVI FICÇÃO.pt" tvg-logo="tvi_ficcao_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI FICÇÃO[/B][/I][/COLOR]        ON
 http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LF0TE/33.ts
+#EXTINF:-1 tvg-id="TVI FICÇÃO.pt" tvg-logo="tvi_ficcao_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI FICÇÃO[/B][/I][/COLOR]        ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/886.ts
+
+
+#EXTINF:-1 tvg-id="TVI FICÇÃO.pt" tvg-logo="tvi_ficcao_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI+[/B][/I][/COLOR]        ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/887.ts
 
 
 
-#EXTINF:-1 tvg-id="TVI Reality.pt" tvg-logo="Tvi_reality.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI Reality[/B][/I][/COLOR]        ON
-http://concord.megdns.com:8000/live/ricardo-santos2/8675uygi/398.ts
 
+
+#EXTINF:-1 tvg-id="TVI Reality.pt" tvg-logo="Tvi_reality.png" group-title="PORTUGAL",[COLOR yellow][I][B]TVI Reality[/B][/I][/COLOR]        OFF 
+http://ptbrvirtual.no-ip.net:8000/live/marina/marina/254.ts
 
 
 
 #EXTINF:-1 tvg-id="SIC CARAS.pt" tvg-logo="SIC CARAS.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC CARAS[/B][/I][/COLOR]       ON
 http://ipsatpro.com:8000/live/angelo/angelo/912.m3u8
+#EXTINF:-1 tvg-id="SIC CARAS.pt" tvg-logo="SIC CARAS.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC CARAS[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/912.ts
 
 
 #EXTINF:-1 tvg-id="SIC RADICAL.pt" tvg-logo="sic radical.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC RADICAL[/B][/I][/COLOR]     ON
 http://37.187.160.187:8000/live/bigjohn/bigjohn/942.m3u8
+#EXTINF:-1 tvg-id="SIC RADICAL.pt" tvg-logo="sic radical.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC RADICAL[/B][/I][/COLOR]     ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/914.ts
 
 
+#EXTINF:-1 tvg-id="SIC MULHER.pt" tvg-logo="SIC Mulher.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC MULHER[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/913.ts
 
-#EXTINF:-1 tvg-id="SIC MULHER.pt" tvg-logo="SIC Mulher.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC MULHER[/B][/I][/COLOR]       OFF
-http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LF0TE/3.ts
 
 
 #EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP Internacional.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP INTERNACIONAL[/B][/I][/COLOR]       ON
@@ -115,6 +126,8 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl
 
 #EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="rtp_memoria.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]       ON
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="rtp_memoria.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MEMÓRIA[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/890.ts
 
 
 
@@ -122,18 +135,25 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl
 http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LF0TE/241.ts
 #EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]       ON
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="RTP Madeira.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP MADEIRA[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/891.ts
 
 
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]       ON
 http://mediaptv1.zuneserver.com:8000/live/COoRFvcfwO/BHEb5LF0TE/242.ts
 #EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]       ON
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="rtp_açores.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP AÇORES[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/893.ts
+
 
 
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS [/B][/I][/COLOR]  ON 
 http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS [/B][/I][/COLOR]  ON 
 http://aziptv.mine.nu:8000/live/David/David/41.m3u8
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="sic_noticias.png" group-title="PORTUGAL",[COLOR yellow][I][B]SIC NOTICIAS [/B][/I][/COLOR]  ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/903.ts
 
 
 
@@ -157,6 +177,20 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl
 
 #EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="Porto Canal.png" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]       ON
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/919.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="Porto Canal.png" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]       ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2315.ts
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="Porto Canal.png" group-title="PORTUGAL",[COLOR yellow][I][B]PORTO CANAL[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/919.ts
+
+
+
+
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="cmtv.png" group-title="PORTUGAL",[COLOR yellow][I][B]CM TV[/B][/I][/COLOR]       ON
+http://37.187.160.187:8000/live/bigjohn/bigjohn/956.m3u8
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="cmtv.png" group-title="PORTUGAL",[COLOR yellow][I][B]CM TV[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/908.ts
+
+
 
 
 #EXTINF:-1 tvg-id="Lisboa TV.pt" tvg-logo="Lisboa TV.jpg" group-title="PORTUGAL",[COLOR yellow][I][B]LISBOA TV[/B][/I][/COLOR]       ON
@@ -177,20 +211,24 @@ http://193.126.16.67/LiveXtendRecorder/2liveartvtmp/inspirationlinks.m3u8
 http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-logo="cmtv.png" group-title="PORTUGAL",[COLOR yellow][I][B]CM TV[/B][/I][/COLOR]       ON
-http://37.187.160.187:8000/live/bigjohn/bigjohn/956.m3u8
-
 
 
 #EXTINF:-1 tvg-id="GLOBOPREMIUM.pt" tvg-logo="tv_globo_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]GLOBO PREMIUM[/B][/I][/COLOR]       ON
 http://www.t12v.com:8000/live/prevot/prevot/1388.ts
+#EXTINF:-1 tvg-id="GLOBOPREMIUM.pt" tvg-logo="tv_globo_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]GLOBO PREMIUM[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/931.ts
+
 
 
 #EXTINF:-1 tvg-id="GLOBO PORTUGAL.pt" tvg-logo="tv_globo_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]GLOBO PORTUGAL[/B][/I][/COLOR]      ON 
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/931.m3u8
+#EXTINF:-1 tvg-id="GLOBO PORTUGAL.pt" tvg-logo="tv_globo_pt.png" group-title="PORTUGAL",[COLOR yellow][I][B]GLOBO PORTUGAL[/B][/I][/COLOR]      ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/888.ts
 
 
 
+#EXTINF:-1 tvg-id="TV record.pt" tvg-logo="Rede_Record.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV RECORD PORTUGAL HD[/B][/I][/COLOR] 
+http://ipsatpro.com:8000/live/jetmir/jetmir/917.ts
 #EXTINF:-1 tvg-id="TV record.pt" tvg-logo="Rede_Record.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV RECORD PORTUGAL HD[/B][/I][/COLOR]       ON 
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/917.m3u8
 #EXTINF:-1 tvg-id="TV record.pt" tvg-logo="Rede_Record.png" group-title="PORTUGAL",[COLOR yellow][I][B]TV RECORD FULL HD[/B][/I][/COLOR]       ON 
@@ -227,6 +265,8 @@ http://super-iptv.space:8000/live/vani/vani/3224.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Discovery HD.pt" tvg-logo="Nat_Geo_HD.png" group-title="PORTUGAL",[COLOR yellow][I][B]Discovery HD[/B][/I][/COLOR]       ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/906.ts
 
 
 
@@ -259,66 +299,132 @@ http://google.pt
 
 #EXTINF:-1 tvg-id="ABOLATV.pt" tvg-logo="a_bola_tv_pt.png" group-title="DESPORTO",[COLOR orange][I][B]A BOLA TV[/B][/I][/COLOR]  ON
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/910.m3u8
+#EXTINF:-1 tvg-id="ABOLATV.pt" tvg-logo="a_bola_tv_pt.png" group-title="DESPORTO",[COLOR orange][I][B]A BOLA TV[/B][/I][/COLOR]  ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/910.ts
 
 
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]  ON     
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 HD [/B][/I][/COLOR]  ON 
+http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]  ON 
+http://iptvbox.noip.us:9998/live/atik/atik/819.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 FULL HD [/B][/I][/COLOR]  ON     
 http://bit.ly/1QP5G7g
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]  ON  
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 HD [/B][/I][/COLOR]  ON  
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/25.m3u8
 #EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]  ON  
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/20.m3u8 sporttv2.pt,SPORT TV 2,http://ns1.mydnspt.com:9511/live/00021/061115fubu/21.m3u8
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 [/B][/I][/COLOR]  ON  
+http://iptv-supplier.com:8000/live/halim1/halim1/2325.ts
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="sporttv1.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 1 FULL HD [/B][/I][/COLOR]  ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/880.ts
 
 
 
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 [/B][/I][/COLOR]  ON   
+
+
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 FULL HD[/B][/I][/COLOR]  ON 
+http://iptvbox.noip.us:9998/live/atik/atik/821.m3u8
+
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 HD [/B][/I][/COLOR]  ON   
 http://bit.ly/21eJYkx
 
-#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 [/B][/I][/COLOR]  ON 
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 HD[/B][/I][/COLOR]  ON 
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/26.m3u8
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 HD[/B][/I][/COLOR]  ON 
+http://iptv-supplier.com:8000/live/halim1/halim1/2295.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-logo="sporttv2.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 2 HD[/B][/I][/COLOR]  ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/881.ts
 
 
 
 
-
-#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 [/B][/I][/COLOR]  ON   
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 HD[/B][/I][/COLOR]  ON 
+http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 SD[/B][/I][/COLOR]  ON   
 http://bit.ly/1Q6qkDr
 #EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 [/B][/I][/COLOR]  ON   
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/22.m3u8
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 [/B][/I][/COLOR]  ON   
+http://iptv-supplier.com:8000/live/halim1/halim1/2296.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-logo="sporttv3.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 3 [/B][/I][/COLOR]  ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/882.ts
 
 
 
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]  ON   
+
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 FULL HD[/B][/I][/COLOR]  ON 
+http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 FULL HD[/B][/I][/COLOR]  ON   
 http://bit.ly/1QqZEJo
-
-#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]  ON  
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/28.m3u8
-
 #EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]  ON 
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/23.m3u8
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]  ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2297.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-logo="sporttv4.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 4 [/B][/I][/COLOR]  ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/883.ts
 
 
 
-
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 [/B][/I][/COLOR] ON
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 FULL HD[/B][/I][/COLOR] ON
+http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 SD[/B][/I][/COLOR] ON
 http://bit.ly/1RTpXgX
-#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 [/B][/I][/COLOR] ON
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 SD[/B][/I][/COLOR] ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/24.m3u8
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 SD[/B][/I][/COLOR] ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2298.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-logo="sporttv5.png" group-title="DESPORTO",[COLOR orange][I][B]SportTV 5 SD[/B][/I][/COLOR] ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/884.ts
 
 
+
+
+#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 FULL HD[/B][/I][/COLOR]  ON
+http://iptvbox.noip.us:9998/live/atik/atik/1026.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 SD[/B][/I][/COLOR]  ON
+http://iptvbox.noip.us:9998/live/atik/atik/1025.m3u8
 #EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 FULL HD[/B][/I][/COLOR]  ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/32.m3u8
 #EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 FULL HD[/B][/I][/COLOR]  ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/30.m3u8
+#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 FULL HD[/B][/I][/COLOR]  ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2301.ts
+#EXTINF:-1 tvg-id="BENFICATV1.pt" tvg-logo="btv1-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 1 SD[/B][/I][/COLOR]  ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/900.ts
+
 
 
 
 #EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 HD[/B][/I][/COLOR]  ON 
+http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
+#EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 HD[/B][/I][/COLOR]  ON 
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/31.m3u8
-
+#EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 HD[/B][/I][/COLOR]  ON 
+http://iptv-supplier.com:8000/live/halim1/halim1/2300.ts
+#EXTINF:-1 tvg-id="BENFICATV2.pt" tvg-logo="btv2-ver1.png" group-title="DESPORTO",[COLOR orange][I][B]BENFICA TV 2 HD[/B][/I][/COLOR]  ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/899.ts
 
 
 #EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]SPORTING TV[/B][/I][/COLOR]  ON
+http://iptvbox.noip.us:9998/live/atik/atik/1028.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]SPORTING TV[/B][/I][/COLOR]  ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/34.m3u8
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]SPORTING TV[/B][/I][/COLOR]  ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2299.ts
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]SPORTING TV HD[/B][/I][/COLOR]  ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/885.ts
+
+
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="sporting tv.png" group-title="DESPORTO",[COLOR orange][I][B]PFC[/B][/I][/COLOR]  ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/911.ts
+
+
+#EXTINF:-1 tvg-id="SPORTINGTV.pt" tvg-logo="" group-title="DESPORTO",[COLOR orange][I][B]CHELSEA TV[/B][/I][/COLOR]  ON
+http://iptvbox.noip.us:9998/live/atik/atik/1024.m3u8
+
+
+#EXTINF:-1 tvg-id="Fuel TV.pt" tvg-logo="" group-title="DESPORTO",[COLOR orange][I][B]FUEL TV[/B][/I][/COLOR]  ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/924.ts
 
 
 #EXTINF:-1 tvg-id="TELEKANAL.pt" tvg-logo="FootballTV.png" group-title="DESPORTO",[COLOR orange][I][B]TELEKANAL[/B][/I][/COLOR] LIGA NOS   
@@ -340,6 +446,16 @@ http://89.163.148.31:8000/live/tufan/tufan/3474.m3u8
 #EXTINF:-1 tvg-id="Eurosport.pt" tvg-logo="Eurosport_Logo.png" group-title="DESPORTO",[COLOR orange][I][B]Eurosport[/B][/I][/COLOR] 
 http://hyper.de1-eu.com:8000/live/saeid/saeid/667.m3u8
 
+#EXTINF:-1 tvg-id="Eurosport.pt" tvg-logo="Eurosport_Logo.png" group-title="DESPORTO",[COLOR orange][I][B]Eurosport[/B][/I][/COLOR] 
+http://ipsatpro.com:8000/live/jetmir/jetmir/928.ts
+
+#EXTINF:-1 tvg-id="Eurosport.pt" tvg-logo="Eurosport_Logo.png" group-title="DESPORTO",[COLOR orange][I][B]EuroSpor 2[/B][/I][/COLOR] 
+http://ipsatpro.com:8000/live/jetmir/jetmir/927.ts
+
+#EXTINF:-1 tvg-id="Eurosport.pt" tvg-logo="Eurosport_Logo.png" group-title="DESPORTO",[COLOR orange][I][B]EuroSpor News[/B][/I][/COLOR] 
+http://ipsatpro.com:8000/live/jetmir/jetmir/922.ts
+
+
 
 #EXTINF:-1 tvg-id="CACAVISION.pt" tvg-logo="cacavision.png" group-title="DESPORTO",[COLOR orange][I][B]CACAVISION[/B][/I][/COLOR]  OFF
 http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/16.ts
@@ -347,6 +463,10 @@ http://149.202.204.86:8000/live/0zx5eS5ndd/xJ5RvU29mw/16.ts
 
 #EXTINF:-1 tvg-id="CAÇA E PESCA.pt" tvg-logo="CAÇA E PESCA.png" group-title="DESPORTO",[COLOR orange][I][B]CAÇA E PESCA[/B][/I][/COLOR]  ON
 http://163.172.16.246:9998/live/mile/skype/490.m3u8
+
+
+#EXTINF:-1 tvg-id="FOX Motorsport" tvg-logo="Fox_Racing_logo.png" group-title="DESPORTO",[COLOR orange][I][B]MOTOR TV[/B][/I][/COLOR]       ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/921.ts
 
 
 #EXTINF:-1 tvg-id="FOX Motorsport" tvg-logo="Fox_Racing_logo.png" group-title="DESPORTO",[COLOR orange][I][B]FOX MOTOR SPORT[/B][/I][/COLOR]       ON 
@@ -436,54 +556,93 @@ http://google.pt
 
 
 
-#EXTINF:-1 tvg-id="TVCINE 1.pt" tvg-logo="TVC 1 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 1[/B][/I][/COLOR]    ON 
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/50.m3u8
-
-
+#EXTINF:-1 tvg-id="TVCINE 1.pt" tvg-logo="TVC 1 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 1[/B][/I][/COLOR]   OFF   
+http://ipsatpro.com:8000/live/jetmir/jetmir/936.ts
 
 
 #EXTINF:-1 tvg-id="TVCINE 2.pt" tvg-logo="tvc2.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 2[/B][/I][/COLOR]     ON
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/51.m3u8
-
+http://iptv-supplier.com:8000/live/halim1/halim1/2303.ts
+#EXTINF:-1 tvg-id="TVCINE 2.pt" tvg-logo="tvc2.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 2[/B][/I][/COLOR]     ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/935.ts
 
 
 #EXTINF:-1 tvg-id="TVCINE 3.pt" tvg-logo="TVC 3 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 3[/B][/I][/COLOR]     ON 
-http://ns1.mydnspt.com:9511/live/00021/061115fubu/52.m3u8
-
+http://iptv-supplier.com:8000/live/halim1/halim1/2304.ts
+#EXTINF:-1 tvg-id="TVCINE 3.pt" tvg-logo="TVC 3 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 3[/B][/I][/COLOR]     ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/934.ts
 
 
  
 #EXTINF:-1 tvg-id="TVCINE 4.pt" tvg-logo="TVC 4 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 4[/B][/I][/COLOR]    ON 
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/53.m3u8
+#EXTINF:-1 tvg-id="TVCINE 4.pt" tvg-logo="TVC 4 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 4[/B][/I][/COLOR]    ON 
+http://iptv-supplier.com:8000/live/halim1/halim1/2305.ts
+#EXTINF:-1 tvg-id="TVCINE 4.pt" tvg-logo="TVC 4 logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TVCINE 4[/B][/I][/COLOR]    ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/933.ts
+
 
 
 
 #EXTINF:-1 tvg-id="TV SERIES.pt" tvg-logo="TVSER.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TV SERIES[/B][/I][/COLOR]    ON
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/930.m3u8
+#EXTINF:-1 tvg-id="TV SERIES.pt" tvg-logo="TVSER.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TV SERIES[/B][/I][/COLOR]    ON
+http://ns1.mydnspt.com:9511/live/00021/061115fubu/50.m3u8
+#EXTINF:-1 tvg-id="TV SERIES.pt" tvg-logo="TVSER.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]TV SERIES[/B][/I][/COLOR]    ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/930.ts
+
+
 
 #EXTINF:-1 tvg-id="Hollywwod.pt" tvg-logo="Hollywwod.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]HOLLYWOD[/B][/I][/COLOR]    ON 
 http://ipsatpro.com:8000/live/angelo/angelo/907.m3u8
+#EXTINF:-1 tvg-id="Hollywwod.pt" tvg-logo="Hollywwod.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]HOLLYWOD[/B][/I][/COLOR]    ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/907.ts
 
 
 #EXTINF:-1 tvg-id="MOV.pt" tvg-logo="MOV.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]MOV FULL HD[/B][/I][/COLOR]    ON 
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/929.m3u8
+#EXTINF:-1 tvg-id="MOV.pt" tvg-logo="MOV.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]MOV [/B][/I][/COLOR]    ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/929.ts
 
 
 #EXTINF:-1 tvg-id="FOX.pt" tvg-logo="FOX_Network.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX HD[/B][/I][/COLOR] ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/90.m3u8
 #EXTINF:-1 tvg-id="FOX.pt" tvg-logo="FOX_Network.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX HD[/B][/I][/COLOR] ON
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/926.m3u8
+#EXTINF:-1 tvg-id="FOX.pt" tvg-logo="FOX_Network.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX HD[/B][/I][/COLOR] ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2312.ts
+#EXTINF:-1 tvg-id="FOX.pt" tvg-logo="FOX_Network.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX HD[/B][/I][/COLOR] ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/926.ts
+
+
 
 #EXTINF:-1 tvg-id="FOX LIFE.pt" tvg-logo="Fox_life_it.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX LIFE FULL HD[/B][/I][/COLOR]    ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2313.ts
+#EXTINF:-1 tvg-id="FOX LIFE.pt" tvg-logo="Fox_life_it.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX LIFE FULL HD[/B][/I][/COLOR]    ON
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/925.m3u8
+#EXTINF:-1 tvg-id="FOX LIFE.pt" tvg-logo="Fox_life_it.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX LIFE FULL HD[/B][/I][/COLOR]    ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/925.ts
+
+
+
 
 
 #EXTINF:-1 tvg-id="FOX Comedie.pt" tvg-logo="FOX Comedie.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX Comedie[/B][/I][/COLOR]    ON
 http://ipsatpro.com:8000/live/angelo/angelo/923.m3u8
+#EXTINF:-1 tvg-id="FOX Comedie.pt" tvg-logo="FOX Comedie.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX Comedie[/B][/I][/COLOR]    ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2311.ts
+#EXTINF:-1 tvg-id="FOX Comedie.pt" tvg-logo="FOX Comedie.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX Comedie[/B][/I][/COLOR]    ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/923.ts
 
 
-#EXTINF:-1 tvg-id="FOX CRIME.pt" tvg-logo="FOX CRIME.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX CRIME[/B][/I][/COLOR]     ON
+
+
+#EXTINF:-1 tvg-id="FOX CRIME.pt" tvg-logo="FOX CRIME.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX CRIME FULL HD[/B][/I][/COLOR]     ON
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/901.m3u8
+#EXTINF:-1 tvg-id="FOX CRIME.pt" tvg-logo="FOX CRIME.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX CRIME FULL HD[/B][/I][/COLOR]     ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2314.ts
+#EXTINF:-1 tvg-id="FOX CRIME.pt" tvg-logo="FOX CRIME.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX CRIME FULL HD[/B][/I][/COLOR]     ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/901.ts
+
 
 
 #EXTINF:-1 tvg-id="FOX MOVIES.pt" tvg-logo="fox_movies_pt.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]FOX MOVIES[/B][/I][/COLOR]    OFF
@@ -494,12 +653,30 @@ http://www.t12v.com:8000/live/prevot/prevot/1148.ts
 http://ipsatpro.com:8000/live/angelo/angelo/915.m3u8
 #EXTINF:-1 tvg-id="AXN WHITE.pt" tvg-logo="AXN.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN HD[/B][/I][/COLOR]    ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/87.m3u8 
+#EXTINF:-1 tvg-id="AXN WHITE.pt" tvg-logo="AXN.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN HD[/B][/I][/COLOR]    ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2308.ts
+#EXTINF:-1 tvg-id="AXN WHITE.pt" tvg-logo="AXN.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN HD[/B][/I][/COLOR]    ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/915.ts
+
+
 
 #EXTINF:-1 tvg-id="AXN WHITE.pt" tvg-logo="AXN_WHITE.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN WHITE HD[/B][/I][/COLOR]    ON
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/916.m3u8
+#EXTINF:-1 tvg-id="AXN WHITE.pt" tvg-logo="AXN_WHITE.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN WHITE HD[/B][/I][/COLOR]    ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2309.ts
+#EXTINF:-1 tvg-id="AXN WHITE.pt" tvg-logo="AXN_WHITE.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN WHITE HD[/B][/I][/COLOR]    ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/916.ts
+
+
 
 #EXTINF:-1 tvg-id="AXN BLACK.pt" tvg-logo="AXN_Black_logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN BLACK FULL HD[/B][/I][/COLOR]    ON
 http://ipsatpro.com:8000/live/fatihamca/fatihamca/932.m3u8
+#EXTINF:-1 tvg-id="AXN BLACK.pt" tvg-logo="AXN_Black_logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN BLACK FULL HD[/B][/I][/COLOR]    ON
+http://iptv-supplier.com:8000/live/halim1/halim1/2310.ts
+#EXTINF:-1 tvg-id="AXN BLACK.pt" tvg-logo="AXN_Black_logo.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]AXN BLACK FULL HD[/B][/I][/COLOR]    ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/932.ts
+
+
 
 #EXTINF:-1 tvg-id="CINEMUNDO.pt" tvg-logo="CINEMUNDO.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]CINEMUNDO[/B][/I][/COLOR]     OFF 
 http://hyper.de1-eu.com:8000/live/saeid/saeid/672.m3u8
@@ -510,6 +687,12 @@ http://89.163.148.31:8000/live/tufan/tufan/3499.m3u8
 
 #EXTINF:-1 tvg-id="SYFY.pt" tvg-logo="SyFy.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]SYFY[/B][/I][/COLOR]     ON 
 http://www.t12v.com:8000/live/prevot/prevot/1412.ts
+#EXTINF:-1 tvg-id="SYFY.pt" tvg-logo="SyFy.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]SYFY[/B][/I][/COLOR]     ON 
+http://iptv-supplier.com:8000/live/halim1/halim1/2316.ts
+#EXTINF:-1 tvg-id="SYFY.pt" tvg-logo="SyFy.png" group-title="CANAIS DE  ENTRETENIMENTO",[COLOR lavenderblush][I][B]SYFY[/B][/I][/COLOR]     ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/902.ts
+
+
 
 ##############################################
 #
@@ -522,12 +705,14 @@ http://google.pt
 
 #EXTINF:-1 tvg-id="DISNEY JUNIOR.pt" tvg-logo="disney junior1.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY JUNIOR[/B][/I][/COLOR]     ON 
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/44.m3u8
-
+#EXTINF:-1 tvg-id="DISNEY JUNIOR.pt" tvg-logo="disney junior1.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY JUNIOR[/B][/I][/COLOR]     ON 
+http://ipsatpro.com:8000/live/jetmir/jetmir/905.ts
 
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL.pt" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY CHANNEL[/B][/I][/COLOR]     ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/40.m3u8
-
+#EXTINF:-1 tvg-id="DISNEY CHANNEL.pt" tvg-logo="Disney Channel.png" group-title="INFANTIL",[COLOR Gold ][I][B]DISNEY CHANNEL[/B][/I][/COLOR]     ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/904.ts
 
 #EXTINF:-1 tvg-id="CANAL PANDA.pt" tvg-logo="panda.png" group-title="INFANTIL",[COLOR Gold ][I][B]CANAL PANDA[/B][/I][/COLOR]     ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/42.m3u8
@@ -543,6 +728,8 @@ http://ns1.mydnspt.com:9511/live/00021/061115fubu/41.m3u8
 
 #EXTINF:-1 tvg-id="Jim Jam.pt" tvg-logo="JimJam.png" group-title="INFANTIL",[COLOR Gold ][I][B]JIM JAM[/B][/I][/COLOR]     ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/48.m3u8
+#EXTINF:-1 tvg-id="Jim Jam.pt" tvg-logo="JimJam.png" group-title="INFANTIL",[COLOR Gold ][I][B]JIM JAM[/B][/I][/COLOR]     ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/918.ts
 
 
 #EXTINF:-1 tvg-id="SIC Kids.pt" tvg-logo="sic_k.png" group-title="INFANTIL",[COLOR Gold ][I][B]SIC Kids[/B][/I][/COLOR]     ON
@@ -555,7 +742,8 @@ http://ns1.mydnspt.com:9511/live/00021/061115fubu/46.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network Portugal.pt" tvg-logo="Cartoon_Network.png" group-title="INFANTIL",[COLOR Gold ][I][B]Cartoon Network Portugal[/B][/I][/COLOR]     ON
 http://ns1.mydnspt.com:9511/live/00021/061115fubu/47.m3u8
-
+#EXTINF:-1 tvg-id="Cartoon Network Portugal.pt" tvg-logo="Cartoon_Network.png" group-title="INFANTIL",[COLOR Gold ][I][B]Cartoon Network Portugal[/B][/I][/COLOR]     ON
+http://ipsatpro.com:8000/live/jetmir/jetmir/920.ts
 
 
 #EXTINF:-1 tvg-id="BOOMERANG Portugal.pt" tvg-logo="Boomerang_tv_logo.png" group-title="INFANTIL",[COLOR Gold ][I][B]BOOMERANG Portugal[/B][/I][/COLOR]   OFF
@@ -1219,10 +1407,8 @@ http://selling01.ddns.net:8000/live/daniela/daniela/10757.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]18+: Hottest Cheerleaders [/B][/I][/COLOR]
 http://selling01.ddns.net:8000/live/daniela/daniela/10753.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B] 18+: Tv Girl [/B][/I][/COLOR]
-#EXTINF:-1,18+: Tv Girl
 http://selling01.ddns.net:8000/live/daniela/daniela/6286.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]18+: Sexto Senso [/B][/I][/COLOR]
-#EXTINF:-1,
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]18+: HOTCLUB 1 HD[/B][/I][/COLOR]
 http://selling01.ddns.net:8000/live/daniela/daniela/608.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]HOTCLUB 2 HD [/B][/I][/COLOR]
@@ -1234,6 +1420,8 @@ http://selling01.ddns.net:8000/live/daniela/daniela/611.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- VIDEO ON DEMAND -------[/B][/I][/COLOR]
+
+
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 1 -------[/B][/I][/COLOR]
 http://selling01.ddns.net:8000/live/daniela/daniela/1006.ts
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 2 -------[/B][/I][/COLOR]
@@ -1276,23 +1464,15 @@ http://selling01.ddns.net:8000/movie/daniela/daniela/14998.mkv
 http://selling01.ddns.net:8000/movie/daniela/daniela/14997.mkv
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 21 -------[/B][/I][/COLOR]
 http://selling01.ddns.net:8000/movie/daniela/daniela/14996.mkv
-
-
-#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22 -------[/B][/I][/COLOR]
-#EXTINF:-1,La France à Poil 1
+EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22 -------[/B][/I][/COLOR]
 http://dlfr2.cdntlsv.com/6582511a11a90ccc06119d4a84218d36.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22 -------[/B][/I][/COLOR]
-#EXTINF:-1,NUDE IN FRANCE 1
+#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22b -------[/B][/I][/COLOR]
 http://dlfr2.cdntlsv.com/2ca219310f02a1f5f02d64dde4fdf761.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22 -------[/B][/I][/COLOR]
-#EXTINF:-1,Television X 1
+#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22c -------[/B][/I][/COLOR]
 http://btprtlndtv.vo.llnwd.net/o45/web/adult/BROOKLYN_BLUE_SEXN_TOUR/BROOKLYN_BLUE_SEX_TOUR_1/VideoMobile/1.mp4
-#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22 -------[/B][/I][/COLOR]
-#EXTINF:-1,Chantas Bitches 1
+#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22d -------[/B][/I][/COLOR]
 http://199.241.98.219/_content/chantasbitches/CB_023_Candy_01.wmv
-#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22 -------[/B][/I][/COLOR]
-
-#EXTINF:-1,SEXTV HD 3 (Teen Lesbian Fantasies )
+#EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 22e -------[/B][/I][/COLOR]
 http://italians-server.tv:8000/movie/rudi/rudi/839.mkv
 #EXTINF:-1 tvg-logo="" group-title="ADULTO XXX +18 ",[COLOR red][I][B]----- 23 -------[/B][/I][/COLOR]
 http://italians-server.tv:8000/movie/rudi/rudi/2406.mkv
